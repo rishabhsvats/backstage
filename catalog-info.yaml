@@ -7,7 +7,6 @@ metadata:
     backstage.io/source-location: url:https://github.com/rishabhsvats/backstage
 spec:
   type: service
-  owner: user:default/guest
+  owner: rhdh-team
   lifecycle: experimental
-  dependsOn: 
-    - "resource:my-demo-app-ec2"
+
